@@ -54,17 +54,17 @@ def generate_pdf(name, date, vin, address, address2, model, plate, impoundDate, 
     body = f"""\
 Dear Vehicle Owner / Registered Owner,
 
-This communication is to inform you that your vehicle has been impounded or recovered by Ben and Nino Auto Repair Inc., and in certain cases, by law enforcement. Please be advised that daily storage fees are accruing until the vehicle is released.
+    This communication is to inform you that your vehicle has been impounded or recovered by Ben and Nino Auto Repair Inc., and in certain cases, by law enforcement. Please be advised that daily storage fees are accruing until the vehicle is released.
 
-To facilitate the redemption process, we strongly recommend contacting us prior to visiting our facility. This will allow us to update your bill and position the vehicle in an accessible area for prompt removal.
+    To facilitate the redemption process, we strongly recommend contacting us prior to visiting our facility. This will allow us to update your bill and position the vehicle in an accessible area for prompt removal.
 
-Redemption hours are Monday through Friday, between 9:00 AM and 4:00 PM. Immediate attention is essential to avoid further actions, including the initiation of the lien process. Failure to contact us within five (5) days of receiving this notice may result in complications.
+    Redemption hours are Monday through Friday, between 9:00 AM and 4:00 PM. Immediate attention is essential to avoid further actions, including the initiation of the lien process. Failure to contact us within five (5) days of receiving this notice may result in complications.
 
-To discuss the release process or address any inquiries, please contact us as soon as possible. Your vehicle will only be released upon full payment of all towing and storage fees.
+    To discuss the release process or address any inquiries, please contact us as soon as possible. Your vehicle will only be released upon full payment of all towing and storage fees.
 
-Ben and Nino Auto Repair Inc. will claim a lien pursuant to Section 184 of the New York State Lien Law on a {model}, with DMV license plate number {plate}, and VIN {vin}, impounded on {impoundDate}, registered to {registeredOwnersName}.
+    Ben and Nino Auto Repair Inc. will claim a lien pursuant to Section 184 of the New York State Lien Law on a {model}, with DMV license plate number {plate}, and VIN {vin}, impounded on {impoundDate}, registered to {registeredOwnersName}.
 
-We appreciate your cooperation and look forward to your prompt response.
+    We appreciate your cooperation and look forward to your prompt response.
 
 Sincerely,
 
