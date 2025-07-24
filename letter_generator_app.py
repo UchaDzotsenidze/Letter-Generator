@@ -22,7 +22,7 @@ def generate_pdf(name, date, vin, address, address2, model, plate, impoundDate, 
 
     # === Margins ===
     margin_left = 40
-    margin_right = 40
+    margin_right = 60
     usable_width = width - margin_left - margin_right
 
     # === HEADER (Centered) ===
