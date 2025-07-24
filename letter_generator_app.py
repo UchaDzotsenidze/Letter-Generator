@@ -62,8 +62,7 @@ Dear Vehicle Owner / Registered Owner,
 
     To discuss the release process or address any inquiries, please contact us as soon as possible. Your vehicle will only be released upon full payment of all towing and storage fees.
 
-    Ben and Nino Auto Repair Inc. will claim a lien pursuant to Section 184 of the New York State Lien Law on a {model}, with DMV license plate number {plate},
-    and VIN {vin}, impounded on {impoundDate}, registered to {registeredOwnersName}.
+    Ben and Nino Auto Repair Inc. will claim a lien pursuant to Section 184 of the New York State Lien Law on a {model}, with DMV license plate number {plate}, <br>and VIN {vin}, impounded on {impoundDate}, registered to {registeredOwnersName}.
 
     We appreciate your cooperation and look forward to your prompt response.
 
